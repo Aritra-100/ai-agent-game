@@ -1,0 +1,37 @@
+depth,alpha_beta,position,nodes_evaluated,nodes_visited,nodes_pruned,time_s
+1,no,empty board (X to move),9,9,0,0.000142
+1,no,mid-game (O to move),6,6,0,7.3e-05
+1,yes,empty board (X to move),9,9,0,9.1e-05
+1,yes,mid-game (O to move),6,6,0,6.4e-05
+2,no,empty board (X to move),72,81,0,0.000704
+2,no,mid-game (O to move),30,36,0,0.000316
+2,yes,empty board (X to move),36,45,36,0.000382
+2,yes,mid-game (O to move),26,32,4,0.000297
+3,no,empty board (X to move),504,585,0,0.005358
+3,no,mid-game (O to move),120,156,0,0.001109
+3,yes,empty board (X to move),137,184,163,0.001487
+3,yes,mid-game (O to move),81,113,27,0.000779
+4,no,empty board (X to move),3024,3609,0,0.03172
+4,no,mid-game (O to move),312,444,0,0.003293
+4,yes,empty board (X to move),600,836,651,0.007946
+4,yes,mid-game (O to move),139,233,93,0.001331
+5,no,empty board (X to move),15120,18729,0,0.154472
+5,no,mid-game (O to move),520,860,0,0.004216
+5,yes,empty board (X to move),2106,2993,1748,0.021833
+5,yes,mid-game (O to move),176,347,130,0.001574
+6,no,empty board (X to move),56160,73449,0,0.578042
+6,no,mid-game (O to move),520,1052,0,0.003603
+6,yes,empty board (X to move),3686,6174,4881,0.051917
+6,yes,mid-game (O to move),175,400,131,0.002203
+7,no,empty board (X to move),154944,221625,0,1.428487
+7,no,mid-game (O to move),520,1052,0,0.002573
+7,yes,empty board (X to move),10610,18161,8941,0.079621
+7,yes,mid-game (O to move),175,400,131,0.001049
+8,no,empty board (X to move),255168,422073,0,1.567687
+8,no,mid-game (O to move),520,1052,0,0.00249
+8,yes,empty board (X to move),10768,22834,12050,0.081862
+8,yes,mid-game (O to move),175,400,131,0.001052
+9,no,empty board (X to move),255168,549945,0,1.354122
+9,no,mid-game (O to move),520,1052,0,0.002483
+9,yes,empty board (X to move),11758,29051,11329,0.079249
+9,yes,mid-game (O to move),175,400,131,0.00105
